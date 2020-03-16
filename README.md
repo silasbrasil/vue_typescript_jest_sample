@@ -1,4 +1,4 @@
-# typescript_test_02
+# Vue.js with TypeScript and Jest Samples
 
 ## Project setup
 ```
